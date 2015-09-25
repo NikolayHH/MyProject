@@ -1,0 +1,55 @@
+/*div*/
+div.back{
+    /*background: #61B4CF;*/
+    font-family: sans-serif;
+}
+div.main{
+
+    margin: 0 auto;
+    width: 900px;
+    background: #61B4CF;
+
+}
+div.logo{
+
+    text-align: center;
+    font-size: 32px;
+    background: #06799F;
+    padding: 20px;
+
+}
+
+div.main-menu{
+
+padding: 20px;
+    font-size: 30px;
+
+}
+
+div.sidebar{
+    float: left;
+    background: #06799F;
+    width: 180px;
+    font-size: 24px;
+    padding: 10px;
+}
+
+div.dinamic{
+    float: left;
+    width: 680px;
+    padding: 10px;
+    background: #216278;
+    color: white;
+}
+div.footer{
+    text-align: center;
+    width: 900px;
+    float: left;
+    background: #06799F;
+}
+
+
+
+.main-menu a{
+    padding: 20px;
+}
