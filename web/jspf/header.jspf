@@ -9,6 +9,6 @@
     <div class = "main">
         <div class = "logo">Hello, my name is Slander</div>
         <div class="main-menu">
-            <a href="..\pages\home-page.jsp">Home page</a>
-            <a href ="#">Sign Up</a>
-            <a href="#">Sign In</a> </div>
+            <a href="../pages/home-page.jsp">Home page</a>
+            <a href ="../pages/authorisation.jsp">Sign in</a>
+            <a href="../pages/registration.jsp">Sign up</a> </div>

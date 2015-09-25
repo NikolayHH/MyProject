@@ -56,14 +56,33 @@ div.block-foto{
 
 }
 div.block-text{
+
     float : left;
     width: 340px;
+}
+
+div.block-auth{
+
+    padding: 20px;
+    background:  #024e64;
+    width: 400px;
+    margin: 0 auto;
+}
+
+div.middle{
+    margin: 0 auto;
+    background: inherit;
+    width: 250px;
 }
 
 
 
 .main-menu a{
     padding: 20px;
+}
+
+.middle .auth-form{
+    width: 250px;
 }
 
 /*id*/
