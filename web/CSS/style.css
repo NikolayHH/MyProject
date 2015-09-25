@@ -48,8 +48,25 @@ div.footer{
     background: #06799F;
 }
 
+div.block-foto{
+    padding-top: 25px;
+    text-align: center;
+    float : left;
+    width: 340px;
+
+}
+div.block-text{
+    float : left;
+    width: 340px;
+}
+
 
 
 .main-menu a{
     padding: 20px;
+}
+
+/*id*/
+#personal-foto{
+    width: 300px;
 }

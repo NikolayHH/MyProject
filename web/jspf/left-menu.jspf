@@ -1,5 +1,5 @@
 <div class="sidebar">
-    <p><a href="#">Home page</a></p>
+    <p><a href="..\pages\home-page.jsp">Home page</a></p>
     <p><a href ="#">Sign Up</a></p>
     <p><a href="#">Sign In</a></p>
 </div>

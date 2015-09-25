@@ -7,8 +7,8 @@
 <body>
 <div class="back">
     <div class = "main">
-        <div class = "logo">Welcome to my web suite</div>
+        <div class = "logo">Hello, my name is Slander</div>
         <div class="main-menu">
-            <a href="#">Home page</a>
+            <a href="..\pages\home-page.jsp">Home page</a>
             <a href ="#">Sign Up</a>
             <a href="#">Sign In</a> </div>
